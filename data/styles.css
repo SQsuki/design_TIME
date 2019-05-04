@@ -9,6 +9,12 @@
 }
 .box_1 {
 }
+.box_3 {
+}
+.image {
+}
+._形状 {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -57,7 +63,25 @@
   color:#000000;
   text-align:left;
 }
+.table_cell {
+}
 ._流程形状 {
 }
 ._连接线 {
+}
+.ellipse {
+}
+._图片 {
+}
+.box_2 {
+}
+.line {
+}
+._形状1 {
+}
+.icon {
+}
+.label {
+  font-size:14px;
+  text-align:left;
 }
